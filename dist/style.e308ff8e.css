@@ -1,0 +1,95 @@
+/* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+table td {
+    text-align: center;
+    padding: 2px;
+    font-weight: bold;
+    border: 1px solid black;    
+}
+.color {
+    background-color: red;
+    color: #e4ffe1;
+    border-radius: 20%;
+    font-weight: bold;
+}
+input[type="text"] {
+    text-align: center;
+}
+.color_check {
+    outline:  solid 2px red ;
+}
+.color_invalid_checkbox {
+    outline:  solid 1px rgb(2, 1, 1) ;
+}
+.div2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+}
+.div3 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.ruban {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+}
+#ruban{
+    padding: 2px;
+}
+label {
+    margin-right: 2px;
+}
+#table-prog{
+    background-color: rgba(81, 190, 204 , 0.8);
+}
+.table1 {
+    background-color: rgba(81, 190, 204 , 0.9)
+}
+.p::first-letter {
+    font-size: 20px;
+    color: mediumblue;
+}
+.divv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+}
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+button:hover {
+   background-color: rgba(115, 124, 206, 1);
+   -webkit-transition: 0.2s;
+   -o-transition: 0.2s;
+   transition: 0.2s; 
+}
+.p {
+    font-size: 14px;
+}
+.btnn {
+    border-radius: 4px;
+    background-color: rgba(115, 124, 206, 0.55);
+    color: rgb(31, 30, 30);
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
