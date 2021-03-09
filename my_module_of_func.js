@@ -1,12 +1,9 @@
 import { v , state_start , timer , $$ , etats , tableProg} from './index.js';
 
-/**
- * Module qui contient toutes les fonctions utilent aux fonctionnement du projet
- */
 export const my_module = {
   /**
    * Function for moved the cursor
-   * @param {string} ligne_i represent ligne in table
+   * @param {string} line_i represent ligne in table
    * @param {number} teteDeLecture position of head of read
    */
   move_cursor: function (ligne_i, teteDeLecture) {
@@ -73,7 +70,6 @@ export const my_module = {
       for (let i = 0; i < ligne.length; i++) {
         //faut il ecraser et réecrire une valeur sur cette case ??
         if (ligne[i].includes(array[1])) {
-          console.log(ligne);
           document.getElementById(`${teteDeLecture}`).value = "";
         } else if (ligne[i].includes(array[2])) {
           document.getElementById(`${teteDeLecture}`).value = 1;
