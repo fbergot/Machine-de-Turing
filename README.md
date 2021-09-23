@@ -23,6 +23,6 @@ Pour essaie , on peut entrer ces cases qui changent les zero en 1 :
 
 sur le ruban , on dispose des 0 et des 1 a droite de la case rouge.On clique ensuite sur les checkboxs suivantes (si on est dans l'état de départ A): Ab-d A0-1-d A1-0-d
 
-Puis on lance la machine en pas-a-pas ou automatique.Vous devriez voir les blancs ignorés, les zéros remplacés par des 1 et les 1 remplacés par des zéros. (comme il n'y a pas détat "final" la machine continuera de progréssé mais vous pouvez appuyer sur recharger pour ré-initialiser) J'espère que les explications vous auront aidées.
+Puis on lance la machine en pas-a-pas ou automatique.Vous devriez voir les blancs ignorés, les zéros remplacés par des 1 et les 1 remplacés par des zéros. (comme il n'y a pas détat "final" la machine continuera de progréssé mais vous pouvez appuyer sur recharger pour ré-initialiser)
 
 F.Bergot
