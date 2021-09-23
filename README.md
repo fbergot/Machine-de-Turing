@@ -1,11 +1,11 @@
-1-Description
+### 1-Description ###
 
 La machine permet d'effectuer des calculs en binaire mais c'est a vous de fabriquer le programme!!
 Ce petit émulateur est plus au moins fidèle à la description de turing dans son fameux papier de 1936.Elle est composée de plusieurs choses :
 
 -On a un ruban sur lequel doivent être disposés les zéros et les uns. (Tout en bas).Il est numéroté de -10 à 10 , disposant ainsi de 21 cases pour les calculs. -On a aussi un tableau qui permet de fabriquer les programmes pour faire fonctionner la machine et ainsi écraser , modifier ou supprimer les 0 ou 1 qui sont sur le ruban.
 
-2-La nomenclature du tableau
+### 2-La nomenclature du tableau et le fonctionnement de la machine ###
 
 Dans le tableau , on dispose de checkboxs qui permettent de créer le programme.A ce stade , il est important de savoir à quoi font références les différentes colonnes et lignes.
 
