@@ -25,4 +25,3 @@ sur le ruban , on dispose des 0 et des 1 a droite de la case rouge.On clique ens
 
 Puis on lance la machine en pas-a-pas ou automatique.Vous devriez voir les blancs ignorés, les zéros remplacés par des 1 et les 1 remplacés par des zéros. (comme il n'y a pas détat "final" la machine continuera de progréssé mais vous pouvez appuyer sur recharger pour ré-initialiser)
 
-F.Bergot
